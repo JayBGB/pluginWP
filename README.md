@@ -1,6 +1,6 @@
 # Plugin de WordPress: Filtrar Contenido y Título Dinámico
 
-Este plugin de WordPress, creado por **Tu Nombre**, tiene como objetivo principal añadir funcionalidades interesantes al contenido y al título de las entradas. A continuación, se proporciona una explicación detallada del código:
+Este plugin de WordPress, creado por **JayBGB**, tiene como objetivo principal añadir funcionalidades interesantes al contenido y al título de las entradas. A continuación, se proporciona una explicación detallada del código:
 
 ## Descripción del Plugin
 
