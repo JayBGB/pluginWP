@@ -83,3 +83,10 @@ La función `filtrar_titulo_post` cambia el título de la entrada según el día
 1. Activa el plugin desde el panel de administración de WordPress.
 2. A partir de ahora, el contenido de tus entradas mostrará una frase aleatoria después de cada mención del número 33.
 3. Los títulos de las entradas se cambiarán automáticamente según el día de la semana.
+
+<details>
+<summary>Imagen de un post en WordPress con el plugin funcional</summary>
+
+![Post de Wordpress con el plugin en funcionamiento](prueba.png)
+
+</details>
